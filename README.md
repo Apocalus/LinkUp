@@ -5,7 +5,7 @@ Created Using Flutter & Firebase
 
 App can:
 - User Registration
-- Authenticate
+- User Auth
 - Send Messages
 - Receive Messages
 - Maintain User Chat History
