@@ -3,7 +3,7 @@
 Real-time Chat App.
 Created Using Flutter & Firebase
 
-App can:
+## App can:
 - User Registration
 - User Authentication
 - Show All App Users
