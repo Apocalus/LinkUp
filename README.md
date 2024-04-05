@@ -8,6 +8,7 @@ App can:
 - Authenticate
 - Send Messages
 - Receive Messages
+- Maintain User Chat History
 - Switch From Light Mode to Dark Mode
 - Logout
 
