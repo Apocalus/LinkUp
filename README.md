@@ -12,6 +12,7 @@ Created Using Flutter & Firebase
 - Maintain User Chat History
 - Switch From Light Mode to Dark Mode
 - Logout
+- Notifications [in-progress]
 
 ## Screenshots
 <div style="display: flex; flex-wrap: wrap;">
