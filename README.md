@@ -3,7 +3,7 @@
 Real-time Chat App.
 Created Using Flutter & Firebase
 
-## App can:
+## Features
 - User Registration
 - User Authentication
 - Show All App Users
@@ -13,6 +13,7 @@ Created Using Flutter & Firebase
 - Switch From Light Mode to Dark Mode
 - Logout
 
+## Screenshots
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://github.com/Apocalus/LinkUp/blob/master/screenshots/Screenshot_20240405_134339.png" alt="login_page_light_mode" width="300"/>
     <img src="https://github.com/Apocalus/LinkUp/blob/master/screenshots/Screenshot_20240405_134951.png" alt="app_drawer_light_mode" width="300"/>
@@ -23,4 +24,19 @@ Created Using Flutter & Firebase
     <img src="https://github.com/Apocalus/LinkUp/blob/master/screenshots/Screenshot_20240405_134932.png" alt="chat_page_dark_mode" width="300"/>
 </div>
 
+## How to Use
+1. Clone the repository.
+2. Run `flutter pub get` to install dependencies.
+3. Configure Firebase for Android and iOS.
+4. Run the app on a simulator or device.
 
+## How to Contribute
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/xyz`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add new feature'`).
+5. Push to the branch (`git push origin feature/xyz`).
+6. Create a new Pull Request.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
