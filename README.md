@@ -29,6 +29,3 @@ Created Using Flutter & Firebase
 2. Run `flutter pub get` to install dependencies.
 3. Configure Firebase for Android and iOS.
 4. Run the app on a simulator or device.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
