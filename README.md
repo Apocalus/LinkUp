@@ -18,9 +18,8 @@ App can:
     <img src="https://github.com/Apocalus/LinkUp/blob/master/screenshots/Screenshot_20240405_134800.png" alt="home_page_light_mode" width="300"/>
     <img src="https://github.com/Apocalus/LinkUp/blob/master/screenshots/Screenshot_20240405_134944.png" alt="chat_page_light_mode" width="300"/>
     <img src="https://github.com/Apocalus/LinkUp/blob/master/screenshots/Screenshot_20240405_134839.png" alt="settings_page_dark_mode" width="300"/>
-    <img src="https://github.com/Apocalus/LinkUp/blob/master/screenshots/Screenshot_20240405_134902.png" alt="chat_page_dark_mode" width="300"/>
     <img src="https://github.com/Apocalus/LinkUp/blob/master/screenshots/Screenshot_20240405_134847.png" alt="home_page_dark_mode" width="300"/>
-    <img src="https://github.com/Apocalus/LinkUp/blob/master/screenshots/Screenshot_20240405_134902.png" alt="chat_page_dark_mode" width="300"/>
+    <img src="https://github.com/Apocalus/LinkUp/blob/master/screenshots/Screenshot_20240405_134932.png" alt="chat_page_dark_mode" width="300"/>
 </div>
 
 
