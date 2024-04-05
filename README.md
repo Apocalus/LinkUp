@@ -30,13 +30,5 @@ Created Using Flutter & Firebase
 3. Configure Firebase for Android and iOS.
 4. Run the app on a simulator or device.
 
-## How to Contribute
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/xyz`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add new feature'`).
-5. Push to the branch (`git push origin feature/xyz`).
-6. Create a new Pull Request.
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
