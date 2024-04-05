@@ -12,4 +12,5 @@ App can:
 - Switch From Light Mode to Dark Mode
 - Logout
 
-![Picture!](https://github.com/Apocalus/LinkUp/blob/master/screenshots/Screenshot_20240405_134339.png)
+<img src="[https://github.com/username/repository/blob/main/image.png](https://github.com/Apocalus/LinkUp/blob/master/screenshots/Screenshot_20240405_134339.png)" alt="Alt Text" width="300"/>
+
