@@ -1,6 +1,6 @@
 # LinkUp
 
-Real-time Chat App.
+Real-time Chat App for Android.
 Created Using Flutter & Firebase
 
 ## Features
