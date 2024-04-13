@@ -15,7 +15,7 @@ Real-time Chat App for Android. Created Using Flutter & Firebase
 - Logout
 - Notifications [in-progress]
 - Exchange Images [in-progress]
-- Allow user to upload a profile picture [in-progress]
+- Upload a Profile Picture [in-progress]
 
 ## Screenshots
 <div style="display: flex; flex-wrap: wrap;">
