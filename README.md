@@ -51,3 +51,7 @@ Real-time Chat App for Android. Created Using Flutter & Firebase
 4) Configure Firebase for Android
 
 5) Run the app on a simulator or device
+
+## Installation
+[Download the APK file](https://drive.google.com/file/d/1ffsXRXAaZwK1GiVe1uqNSxF5M5iPHetu/view?usp=sharing)
+
