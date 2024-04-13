@@ -3,7 +3,7 @@
 Real-time Chat App for Android.
 Created Using Flutter & Firebase
 
-## Features
+# Features
 - User Registration
 - User Authentication
 - Show All App Users
