@@ -26,8 +26,26 @@ Real-time Chat App for Android. Created Using Flutter & Firebase
     <img src="https://github.com/Apocalus/LinkUp/blob/master/screenshots/Screenshot_20240405_134932.png" alt="chat_page_dark_mode" width="300"/>
 </div>
 
-## How to Use
-1. Clone the repository.
-2. Run `flutter pub get` to install dependencies.
-3. Configure Firebase for Android.
-4. Run the app on a simulator or device.
+## Run Locally
+
+1) Clone the project
+
+```bash
+  git clone https://github.com/Apocalus/LinkUp
+```
+
+2) Go to the project directory
+
+```bash
+  cd LinkUp
+```
+
+3) Install dependencies
+
+```bash
+  flutter pub get
+```
+
+4) Configure Firebase for Android
+
+5) Run the app on a simulator or device
