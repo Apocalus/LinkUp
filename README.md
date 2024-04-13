@@ -14,6 +14,8 @@ Real-time Chat App for Android. Created Using Flutter & Firebase
 - Switch From Light Mode to Dark Mode
 - Logout
 - Notifications [in-progress]
+- Exchange Images [in-progress]
+- Allow user to upload a profile picture [in-progress]
 
 ## Screenshots
 <div style="display: flex; flex-wrap: wrap;">
